@@ -1,0 +1,5 @@
+select product_id from Products where low_fats='Y' and recyclable='Y';
+
+
+FOR CLEAR EXPLANATION, INTUTION, APPROACH AND TIME-SPACE COMPLEXITY - 
+https://leetcode.com/problems/recyclable-and-low-fat-products/solutions/7065578/easy-and-clean-solution-by-teja_namburi0-3lqb/
