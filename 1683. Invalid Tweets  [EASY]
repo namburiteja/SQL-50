@@ -1,0 +1,6 @@
+select tweet_id
+from Tweets
+where length(content)>15;
+
+FOR CLEAR EXPLANATION, INTUTION, APPROACH AND TIME-SPACE COMPLEXITY - 
+https://leetcode.com/problems/invalid-tweets/solutions/7072808/clean-solution-by-teja_namburi04-iujr/
